@@ -131,3 +131,106 @@
 2021-03-28 21:17:16 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@18c3ce77
 2021-03-28 21:17:16 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
 2021-03-28 21:17:16 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:19:49 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Starting balance api
+2021-03-28 21:19:49 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Gettting balance api account - Conta corrente
+2021-03-28 21:19:49 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 5
+2021-03-28 21:19:50 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 5 is 0.0
+2021-03-28 21:19:50 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api account - Poupança
+2021-03-28 21:19:50 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 6
+2021-03-28 21:19:51 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 6 is 0.0
+2021-03-28 21:19:51 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Listas saldos   2
+2021-03-28 21:19:51 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@3a632c59
+2021-03-28 21:19:51 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:19:51 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:20:09 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract has started
+2021-03-28 21:20:10 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract was gotten
+2021-03-28 21:20:10 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.all.transactions.available and params: [Ljava.lang.Object;@744f8980
+2021-03-28 21:20:10 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:10 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Users transactions
+2021-03-28 21:20:26 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Starting deposit api
+2021-03-28 21:20:26 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Value of transaction is 50.0
+2021-03-28 21:20:26 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Account of transaction is 3
+2021-03-28 21:20:27 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Deposit was created
+2021-03-28 21:20:27 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.deposit.was.created and params: [Ljava.lang.Object;@4609e4e
+2021-03-28 21:20:27 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:27 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Deposit was created
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Starting balance api
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Gettting balance api account - Conta corrente
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 5
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 5 is 0.0
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api account - Poupança
+2021-03-28 21:20:32 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 6
+2021-03-28 21:20:33 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 6 is 0.0
+2021-03-28 21:20:33 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Listas saldos   2
+2021-03-28 21:20:33 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@6983db8a
+2021-03-28 21:20:33 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:33 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Starting balance api
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Gettting balance api account - Conta corrente
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 5
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 5 is 0.0
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api account - Poupança
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 6
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 6 is 0.0
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Listas saldos   2
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@567ccb8f
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:37 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:20:44 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Starting deposit api
+2021-03-28 21:20:44 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Value of transaction is 50.0
+2021-03-28 21:20:44 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Account of transaction is 1
+2021-03-28 21:20:45 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Deposit was created
+2021-03-28 21:20:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.deposit.was.created and params: [Ljava.lang.Object;@4134b2c
+2021-03-28 21:20:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Deposit was created
+2021-03-28 21:20:47 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract has started
+2021-03-28 21:20:48 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract was gotten
+2021-03-28 21:20:48 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.all.transactions.available and params: [Ljava.lang.Object;@26ec00a9
+2021-03-28 21:20:48 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:48 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Users transactions
+2021-03-28 21:20:52 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract has started
+2021-03-28 21:20:52 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract was gotten
+2021-03-28 21:20:52 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.all.transactions.available and params: [Ljava.lang.Object;@521b0daa
+2021-03-28 21:20:52 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:52 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Users transactions
+2021-03-28 21:20:56 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Starting balance api
+2021-03-28 21:20:56 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Gettting balance api account - Conta corrente
+2021-03-28 21:20:56 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 5
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 5 is 0.0
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api account - Poupança
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 6
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 6 is 0.0
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Listas saldos   2
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@689f4534
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:20:57 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Starting deposit api
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Value of transaction is 50.0
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Account of transaction is 6
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Deposit was created
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.deposit.was.created and params: [Ljava.lang.Object;@2fc928b4
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:21:30 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Deposit was created
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Starting balance api
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Gettting balance api account - Conta corrente
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 5
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 5 is 0.0
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api account - Poupança
+2021-03-28 21:21:35 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Getting balance api for account 6
+2021-03-28 21:21:36 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Balance for account 6 is 50.0
+2021-03-28 21:21:36 [INFO ] [tests.HomeTest][TransactionController] - [getSaldo] Listas saldos   2
+2021-03-28 21:21:36 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.balance.available and params: [Ljava.lang.Object;@785ec459
+2021-03-28 21:21:36 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:21:36 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Balance was gotten
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Starting deposit api
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Value of transaction is 50.0
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Account of transaction is 5
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][TransactionController] - [createDeposit] Deposit was created
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.deposit.was.created and params: [Ljava.lang.Object;@2944b45f
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:21:45 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Deposit was created
+2021-03-28 21:21:53 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract has started
+2021-03-28 21:21:54 [INFO ] [tests.HomeTest][TransactionController] - [getExtract] Extract was gotten
+2021-03-28 21:21:54 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Adding feedback message with code: feedback.message.all.transactions.available and params: [Ljava.lang.Object;@18a0757a
+2021-03-28 21:21:54 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Current locale is pt_BR
+2021-03-28 21:21:54 [INFO ] [tests.HomeTest][AbstractController] - [addFeedbackMessage] Localized message is: Users transactions
