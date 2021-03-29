@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 15.0.1
+Implementation-Title: oauth2-jwt-resource
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.marcosbarbero.lab
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot2-oauth2-jwt/oauth2-jwt-resource
+Created-By: Maven Integration for Eclipse
+
